@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 84,
-  "versionName": "V84",
-  "apkUrl": "https://pspchecking.netlify.app/apk/phone-check-v84-internal-back-upload-safe.apk",
-  "notes": "Adds a return-to-internal-test button on hardware test pages and prevents upload crashes when there is no internet connection."
+  "latestVersionCode": 85,
+  "versionName": "V85",
+  "apkUrl": "https://pspchecking.netlify.app/apk/phone-check-v85-safe-camera-internal-test.apk",
+  "notes": "Changes camera testing to safe manual mode so unstable or damaged camera hardware cannot crash the main app."
 }
