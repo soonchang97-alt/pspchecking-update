@@ -1,6 +1,0 @@
-{
-  "latestVersionCode": 84,
-  "versionName": "V84",
-  "apkUrl": "https://pspchecking.netlify.app/apk/phone-check-v84-internal-back-upload-safe.apk",
-  "notes": "Adds a return-to-internal-test button on hardware test pages and prevents upload crashes when there is no internet connection."
-}
