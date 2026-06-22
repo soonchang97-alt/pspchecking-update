@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 86,
-  "versionName": "V86",
-  "apkUrl": "https://pspchecking.netlify.app/apk/phone-check-v86-no-camera-launch.apk",
-  "notes": "Camera compatibility fix: internal camera test no longer launches system camera, preventing damaged-camera devices from freezing or forcing reboot."
+  "latestVersionCode": 87,
+  "versionName": "V87",
+  "apkUrl": "https://pspchecking.netlify.app/apk/phone-check-v87-isolated-camera-preview.apk",
+  "notes": "Camera test now opens a live preview inside an isolated camera test process. If camera open, live frame, disconnect, or timeout fails, it marks camera failed and returns to the main test flow."
 }
