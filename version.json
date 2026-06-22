@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 87,
-  "versionName": "V87",
-  "apkUrl": "https://pspchecking.netlify.app/apk/phone-check-v87-isolated-camera-preview.apk",
-  "notes": "Camera test now opens a live preview inside an isolated camera test process. If camera open, live frame, disconnect, or timeout fails, it marks camera failed and returns to the main test flow."
+  "latestVersionCode": 88,
+  "versionName": "V88",
+  "apkUrl": "https://pspchecking.netlify.app/apk/phone-check-v88-legacy-camera-preview.apk",
+  "notes": "Camera test changed to manual-start legacy preview mode in an isolated process. It waits for a live frame and returns failed on open error or 7-second timeout."
 }
