@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 88,
-  "versionName": "V88",
-  "apkUrl": "https://pspchecking.netlify.app/apk/phone-check-v88-legacy-camera-preview.apk",
-  "notes": "Camera test changed to manual-start legacy preview mode in an isolated process. It waits for a live frame and returns failed on open error or 7-second timeout."
+  "latestVersionCode": 89,
+  "versionName": "V89",
+  "apkUrl": "https://pspchecking.netlify.app/apk/phone-check-v89-camera-frame-probe.apk",
+  "notes": "Camera test changed to hidden frame probe mode. It opens camera hardware and waits for preview frames without rendering live preview, reducing white-screen freezes on damaged camera drivers."
 }
