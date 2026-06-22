@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 89,
-  "versionName": "V89",
-  "apkUrl": "https://pspchecking.netlify.app/apk/phone-check-v89-camera-frame-probe.apk",
-  "notes": "Camera test changed to hidden frame probe mode. It opens camera hardware and waits for preview frames without rendering live preview, reducing white-screen freezes on damaged camera drivers."
+  "latestVersionCode": 90,
+  "versionName": "V90",
+  "apkUrl": "https://pspchecking.netlify.app/apk/phone-check-v90-simple-camera-check.apk",
+  "notes": "Camera test simplified. It opens the phone system camera app and uses manual pass/fail result. Low-level Camera2/Camera API tests were removed to avoid freezes on damaged camera drivers."
 }
