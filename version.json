@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 91,
-  "versionName": "V91",
-  "apkUrl": "https://pspchecking.netlify.app/apk/phone-check-v91-camera-auto-failback.apk",
-  "notes": "Camera test now opens camera hardware in an isolated process and waits for one preview frame. If the test fails, times out, or does not return within 8 seconds, the main app records abnormal and returns to the camera result page."
+  "latestVersionCode": 92,
+  "versionName": "V92",
+  "apkUrl": "https://pspchecking.netlify.app/apk/phone-check-v92-camera-frame-quality.apk",
+  "notes": "Camera test no longer passes on any preview frame. It now requires multiple usable frames with enough brightness and variation, so black/flat frames from a damaged rear camera are marked abnormal. Also prevents duplicate pass/fail race results."
 }
