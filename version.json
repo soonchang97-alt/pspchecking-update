@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 85,
-  "versionName": "V85",
-  "apkUrl": "https://pspchecking.netlify.app/apk/phone-check-v85-safe-camera-internal-test.apk",
-  "notes": "Changes camera testing to safe manual mode so unstable or damaged camera hardware cannot crash the main app."
+  "latestVersionCode": 86,
+  "versionName": "V86",
+  "apkUrl": "https://pspchecking.netlify.app/apk/phone-check-v86-no-camera-launch.apk",
+  "notes": "Camera compatibility fix: internal camera test no longer launches system camera, preventing damaged-camera devices from freezing or forcing reboot."
 }
