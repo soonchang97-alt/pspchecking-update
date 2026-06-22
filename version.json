@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 92,
-  "versionName": "V92",
-  "apkUrl": "https://pspchecking.netlify.app/apk/phone-check-v92-camera-frame-quality.apk",
-  "notes": "Camera test no longer passes on any preview frame. It now requires multiple usable frames with enough brightness and variation, so black/flat frames from a damaged rear camera are marked abnormal. Also prevents duplicate pass/fail race results."
+  "latestVersionCode": 93,
+  "versionName": "V93",
+  "apkUrl": "https://pspchecking.netlify.app/apk/phone-check-v93-rear-lens-manual-check.apk",
+  "notes": "Rear camera auto check no longer marks full pass by preview stream only. Multi-lens rear camera now requires manual 1x, 0.5, and zoom confirmation."
 }
