@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 90,
-  "versionName": "V90",
-  "apkUrl": "https://pspchecking.netlify.app/apk/phone-check-v90-simple-camera-check.apk",
-  "notes": "Camera test simplified. It opens the phone system camera app and uses manual pass/fail result. Low-level Camera2/Camera API tests were removed to avoid freezes on damaged camera drivers."
+  "latestVersionCode": 91,
+  "versionName": "V91",
+  "apkUrl": "https://pspchecking.netlify.app/apk/phone-check-v91-camera-auto-failback.apk",
+  "notes": "Camera test now opens camera hardware in an isolated process and waits for one preview frame. If the test fails, times out, or does not return within 8 seconds, the main app records abnormal and returns to the camera result page."
 }
