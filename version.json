@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 93,
-  "versionName": "V93",
-  "apkUrl": "https://pspchecking.netlify.app/apk/phone-check-v93-rear-lens-manual-check.apk",
-  "notes": "Rear camera auto check no longer marks full pass by preview stream only. Multi-lens rear camera now requires manual 1x, 0.5, and zoom confirmation."
+  "latestVersionCode": 95,
+  "versionName": "V95",
+  "apkUrl": "https://soonchang97-alt.github.io/pspchecking-update/apk/phone-check-v95-auto-step-hardware-tests.apk",
+  "notes": "Auto-advances Bluetooth, location, NFC, SIM, microphone, speaker, and camera tests after judgment. SIM now requires SIM detection plus active mobile data with Wi-Fi off. Speaker uses random 1-9 spoken number. Camera passes only when a face is detected."
 }
