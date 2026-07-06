@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 96,
-  "versionName": "V96",
-  "apkUrl": "https://soonchang97-alt.github.io/pspchecking-update/apk/phone-check-v96-fast-manual-camera-flow.apk",
-  "notes": "Top sensor and volume key tests now auto-pass/fail with 20 second timeout. Telco lock and fingerprint auto-advance after judgment. Microphone passes by received sound level. Camera now opens front then back preview in an isolated process for manual OK/problem confirmation."
+  "latestVersionCode": 97,
+  "versionName": "V97",
+  "apkUrl": "https://soonchang97-alt.github.io/pspchecking-update/apk/phone-check-v97-sensor-countdown-camera-orientation.apk",
+  "notes": "Adds a visible 20-second countdown to the top sensor test. Camera preview now applies display orientation correction, uses safer preview size selection, and no longer force-kills the isolated camera process after manual judgment."
 }
