@@ -1,6 +1,6 @@
 ﻿{
-    "apkUrl":  "https://soonchang97-alt.github.io/pspchecking-update/apk/phone-check-v101-malaysia-model-db.apk",
-    "latestVersionCode":  101,
-    "versionName":  "V101",
-    "notes":  "Adds Malaysia common smartphone model database with 563 records and shows model database match on the device page."
+    "apkUrl":  "https://soonchang97-alt.github.io/pspchecking-update/apk/phone-check-v105-customer-pdf-report.apk",
+    "latestVersionCode":  105,
+    "versionName":  "V105",
+    "notes":  "Adds customer-facing PDF inspection report with store header, device info, test results, deduction details, estimated recycle price, risk reminder and final in-store inspection note."
 }
