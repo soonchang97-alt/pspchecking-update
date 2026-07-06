@@ -1,6 +1,6 @@
 ﻿{
-    "apkUrl":  "https://soonchang97-alt.github.io/pspchecking-update/apk/phone-check-v105-customer-pdf-report.apk",
-    "latestVersionCode":  105,
-    "versionName":  "V105",
-    "notes":  "Adds customer-facing PDF inspection report with store header, device info, test results, deduction details, estimated recycle price, risk reminder and final in-store inspection note."
+    "apkUrl":  "https://soonchang97-alt.github.io/pspchecking-update/apk/phone-check-v106-cloud-sync-phase1.apk",
+    "latestVersionCode":  106,
+    "versionName":  "V106",
+    "notes":  "Adds Cloud Sync phase 1 for model lookup, pricing rules, condition deduction rules, unknown models and diagnostic reports with offline cache and admin push hooks."
 }
