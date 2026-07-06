@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 97,
-  "versionName": "V97",
-  "apkUrl": "https://soonchang97-alt.github.io/pspchecking-update/apk/phone-check-v97-sensor-countdown-camera-orientation.apk",
-  "notes": "Adds a visible 20-second countdown to the top sensor test. Camera preview now applies display orientation correction, uses safer preview size selection, and no longer force-kills the isolated camera process after manual judgment."
+  "latestVersionCode": 98,
+  "versionName": "V98",
+  "apkUrl": "https://soonchang97-alt.github.io/pspchecking-update/apk/phone-check-v98-camera-rotation-summary.apk",
+  "notes": "Camera preview orientation is corrected more aggressively, with a Rotate Preview fallback button for device-specific camera drivers. The final report no longer shows the old separate camera detail block; camera appears in the normal test summary only."
 }
