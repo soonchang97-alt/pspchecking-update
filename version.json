@@ -1,6 +1,6 @@
-{
-  "latestVersionCode": 98,
-  "versionName": "V98",
-  "apkUrl": "https://soonchang97-alt.github.io/pspchecking-update/apk/phone-check-v98-camera-rotation-summary.apk",
-  "notes": "Camera preview orientation is corrected more aggressively, with a Rotate Preview fallback button for device-specific camera drivers. The final report no longer shows the old separate camera detail block; camera appears in the normal test summary only."
+﻿{
+    "apkUrl":  "https://soonchang97-alt.github.io/pspchecking-update/apk/phone-check-v101-malaysia-model-db.apk",
+    "latestVersionCode":  101,
+    "versionName":  "V101",
+    "notes":  "Adds Malaysia common smartphone model database with 563 records and shows model database match on the device page."
 }
