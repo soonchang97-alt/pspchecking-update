@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 95,
-  "versionName": "V95",
-  "apkUrl": "https://soonchang97-alt.github.io/pspchecking-update/apk/phone-check-v95-auto-step-hardware-tests.apk",
-  "notes": "Auto-advances Bluetooth, location, NFC, SIM, microphone, speaker, and camera tests after judgment. SIM now requires SIM detection plus active mobile data with Wi-Fi off. Speaker uses random 1-9 spoken number. Camera passes only when a face is detected."
+  "latestVersionCode": 96,
+  "versionName": "V96",
+  "apkUrl": "https://soonchang97-alt.github.io/pspchecking-update/apk/phone-check-v96-fast-manual-camera-flow.apk",
+  "notes": "Top sensor and volume key tests now auto-pass/fail with 20 second timeout. Telco lock and fingerprint auto-advance after judgment. Microphone passes by received sound level. Camera now opens front then back preview in an isolated process for manual OK/problem confirmation."
 }
