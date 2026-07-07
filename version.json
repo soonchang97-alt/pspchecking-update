@@ -1,6 +1,6 @@
 ﻿{
-    "apkUrl":  "https://soonchang97-alt.github.io/pspchecking-update/apk/phone-check-v106-cloud-sync-phase1.apk",
-    "latestVersionCode":  106,
-    "versionName":  "V106",
-    "notes":  "Adds Cloud Sync phase 1 for model lookup, pricing rules, condition deduction rules, unknown models and diagnostic reports with offline cache and admin push hooks."
+    "apkUrl":  "https://soonchang97-alt.github.io/pspchecking-update/apk/phone-check-v111-mmdd-builder.apk",
+    "latestVersionCode":  111,
+    "versionName":  "V111",
+    "notes":  "Adds MMDD Builder basic version for maintaining the mobile model database from the app backend: search model number/marketing name, create/edit model fields, update local lookup, audit log, and role permissions."
 }
