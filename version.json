@@ -1,6 +1,6 @@
-﻿{
-    "apkUrl":  "https://soonchang97-alt.github.io/pspchecking-update/apk/phone-check-v111-mmdd-builder.apk",
-    "latestVersionCode":  111,
-    "versionName":  "V111",
-    "notes":  "Adds MMDD Builder basic version for maintaining the mobile model database from the app backend: search model number/marketing name, create/edit model fields, update local lookup, audit log, and role permissions."
+{
+  "latestVersionCode": 112,
+  "versionName": "V112",
+  "apkUrl": "https://soonchang97-alt.github.io/pspchecking-update/apk/phone-check-v112-latest-quote-flow.apk",
+  "notes": "Latest quote flow build: Inspection Summary, Quote Result, Customer Quote Report, Quote Engine binding, Recovery Gate flow, and MMDD quote integration."
 }
