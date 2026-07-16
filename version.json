@@ -1,6 +1,6 @@
-{
-  "latestVersionCode": 115,
-  "versionName": "V115",
-  "apkUrl": "https://soonchang97-alt.github.io/pspchecking-update/apk/phone-check-v115-alpha-fix-round1.apk",
-  "notes": "Android Alpha Fix Round 1: fixes charging auto PASS/report sync and Wi-Fi scan success PASS/report sync. Uses unified signing certificate."
+﻿{
+    "apkUrl":  "https://soonchang97-alt.github.io/pspchecking-update/apk/phone-check-v116-alpha-fix-round2.apk",
+    "latestVersionCode":  116,
+    "versionName":  "V116",
+    "notes":  "Fixes Charging/Wi-Fi report state synchronization: final report now reads the same canonical test result state as the test pages."
 }
