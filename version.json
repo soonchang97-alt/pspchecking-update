@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 113,
-  "versionName": "V113",
-  "apkUrl": "https://soonchang97-alt.github.io/pspchecking-update/apk/phone-check-v113-charging-wifi-sensors.apk",
-  "notes": "Adds charging test page, Wi-Fi scan self-check retry, motion sensor self-check retry, and updates internal app version to V113."
+  "latestVersionCode": 115,
+  "versionName": "V115",
+  "apkUrl": "https://soonchang97-alt.github.io/pspchecking-update/apk/phone-check-v115-alpha-fix-round1.apk",
+  "notes": "Android Alpha Fix Round 1: fixes charging auto PASS/report sync and Wi-Fi scan success PASS/report sync. Uses unified signing certificate."
 }
