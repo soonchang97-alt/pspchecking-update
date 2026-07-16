@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 112,
-  "versionName": "V112",
-  "apkUrl": "https://soonchang97-alt.github.io/pspchecking-update/apk/phone-check-v112-latest-quote-flow.apk",
-  "notes": "Latest quote flow build: Inspection Summary, Quote Result, Customer Quote Report, Quote Engine binding, Recovery Gate flow, and MMDD quote integration."
+  "latestVersionCode": 113,
+  "versionName": "V113",
+  "apkUrl": "https://soonchang97-alt.github.io/pspchecking-update/apk/phone-check-v113-charging-wifi-sensors.apk",
+  "notes": "Adds charging test page, Wi-Fi scan self-check retry, motion sensor self-check retry, and updates internal app version to V113."
 }
